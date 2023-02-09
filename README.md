@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me https://www.linkedin.com/in/dinesh-p-1a052bb4/
+- 📫 How to reach me www.linkedin.com/in/dineshpalganesan
 
 <!---
 Dineshp2903/Dineshp2903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
