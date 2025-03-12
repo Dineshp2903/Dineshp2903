@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dineshp2903
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning Data Science/System Design
+- 🌱 I’m currently learning Generatic AI
 - 📫 How to reach me www.linkedin.com/in/dineshpalganesan
 
 <!---
